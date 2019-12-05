@@ -39,4 +39,8 @@ This class has function to load images as well as text and normalize them for th
 
 # Generated Images and Sample Results
 
+<h4><b>Images generated after running 150 epochs:</h4></b>
+<img src="https://imgur.com/gctmz9h.png" alt="Screen Demo" width="750" />
+
+<h4><b>Actual Images generated after running 1000 epochs:</h4></b>
 <img src="https://imgur.com/uYFxSnA.png" alt="Screen Demo" width="750" />
