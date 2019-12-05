@@ -1,4 +1,4 @@
-# CMPE-297-Sec98-Emerging-Technologies
+# Text to Image Generation using DC-GANs
 
 # Problem Statement
 <b>Proposal: <br></b>
