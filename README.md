@@ -38,3 +38,5 @@ This class has function to load images as well as text and normalize them for th
 *   Using deployment manager we hit the localhost:8080 button to lauch the Jupyter Lab GUI within GCP and ran our entire code there
 
 # Generated Images and Sample Results
+
+<img src="https://imgur.com/uYFxSnA.png" alt="Screen Demo" width="750" />
